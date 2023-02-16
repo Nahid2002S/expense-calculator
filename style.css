@@ -1,0 +1,7 @@
+#images{
+    height: 106vh;
+
+    background-image: url(money.jpeg);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
